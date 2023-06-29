@@ -1,0 +1,21 @@
+.CourseForm form {
+  display: flex;
+  align-items: center;
+}
+
+.CourseForm input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.CourseForm button {
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.CourseForm button[type="submit"] {
+  background-color: #2196f3;
+}
